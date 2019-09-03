@@ -10,11 +10,11 @@
   No menu dropdown escolha seu Campus
 
   ## Insira o conteúdo do auto.js no console do seu navegador
-  Escolha o Campus de pesquisa, e então insira o conteúdo do arquivo "auto.js" no console js do seu navegador:
+  Escolha o Campus de pesquisa, e então insira o conteúdo do arquivo "[auto.js](https://github.com/cesarjhony/utfpr_buscar_cert/raw/master/auto.js)" no console js do seu navegador:
   No Firefox:
   **Botão direito em qualquer lugar da página >> clique em Inspecionar Elemento**
   **Clique na aba Console**
-  Cole o conteúdo de **auto.js** a frente dos símbolos maior-maior **>>**
+  Cole o conteúdo de **[auto.js](https://github.com/cesarjhony/utfpr_buscar_cert/raw/master/auto.js)** a frente dos símbolos maior-maior **>>**
   <img src="https://github.com/cesarjhony/utfpr_buscar_cert/raw/master/imagens/auto1.png">
   ***As vezes necessário habilitar o "copia e cola" do console do firefox***
   

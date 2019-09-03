@@ -2,7 +2,8 @@
   Automação para procurar certificados no sistema de certificados da UTFPR http://apl.utfpr.edu.br/extensao/certificados/listaPublica
 
 # Uso básico:
-
+  Vídeo ilustrativo em https://youtu.be/RfULuT94Xns
+  
   Entre em:
   http://apl.utfpr.edu.br/extensao/certificados/listaPublica
   
